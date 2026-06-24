@@ -1,2 +1,1 @@
-print ("Hello Git")
-print ("Hola me llamo Alex")
+print ("New Hello Git")
